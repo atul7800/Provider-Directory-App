@@ -32,3 +32,44 @@ npm install
 # 3. Start the development server
 npm run dev
 ```
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+├── components/
+│   ├── ProviderCard.jsx
+│   ├── ProviderDetailsFallback.jsx
+|
+├── data/
+│   └── providers.json
+├── pages/
+│   ├── styles/
+|   |   └── styles.css
+│   ├── ProviderDetails.jsx
+│   └── ProvidersList.jsx
+├── App.jsx
+├── main.jsx
+├── App.css
+|── index.css
+├── index.html
+
+```
+
+---
+
+## 📤 Deployment
+
+- Frontend deployed on **Vercel**
+
+---
+
+## 📹 Demo
+
+**Live Link**: [Deployed App](https://provider-directory-app.vercel.app/)
+
+## 🙌 Author
+
+Built with ❤️ by Atul Gupta
