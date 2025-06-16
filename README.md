@@ -22,7 +22,8 @@ To run the project locally, follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/provider-directory-app.git
+git clone https://github.com/atul7800/Provider-Directory-App.git
+
 cd provider-directory-app
 
 # 2. Install dependencies
