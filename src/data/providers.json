@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "name": "Bright Minds Center",
+        "specialization": "Dyslexia Support",
+        "location": "Mumbai",
+        "rating": 4.5,
+        "image": "https://randomuser.me/api/portraits/women/44.jpg",
+        "shortDescription": "Helping children with dyslexia thrive.",
+        "longDescription": "Bright Minds specializes in helping children with dyslexia overcome learning challenges using proven methods.",
+        "contactEmail": "contact@brightminds.com",
+        "phoneNumber": "9876543210",
+        "availability": [
+            {
+                "day": "Monday",
+                "time": "10:00 AM - 1:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "2:00 PM - 5:00 PM"
+            },
+            {
+                "day": "Friday",
+                "time": "11:00 AM - 3:00 PM"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Focus Coaching",
+        "specialization": "ADHD Coaching",
+        "location": "Delhi",
+        "rating": 4.7,
+        "image": "https://randomuser.me/api/portraits/women/45.jpg",
+        "shortDescription": "Coaching kids with attention disorders.",
+        "longDescription": "Focus Coaching offers personalized coaching for children dealing with ADHD and related conditions.",
+        "contactEmail": "hello@focuscoaching.com",
+        "phoneNumber": "9123456780",
+        "availability": [
+            {
+                "day": "Tuesday",
+                "time": "11:00 AM - 2:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:00 PM - 6:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "10:00 AM - 1:00 PM"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mind Bloom",
+        "specialization": "Autism Therapy",
+        "location": "Bangalore",
+        "rating": 4.8,
+        "image": "https://randomuser.me/api/portraits/women/46.jpg",
+        "shortDescription": "Therapy programs for autism.",
+        "longDescription": "Mind Bloom provides structured therapy sessions designed to support children with autism spectrum disorder.",
+        "contactEmail": "info@mindbloom.com",
+        "phoneNumber": "9988776655",
+        "availability": [
+            {
+                "day": "Monday",
+                "time": "9:30 AM - 12:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "2:00 PM - 5:00 PM"
+            },
+            {
+                "day": "Friday",
+                "time": "10:00 AM - 1:00 PM"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "NeuroSpark",
+        "specialization": "Neurodiversity Education",
+        "location": "Hyderabad",
+        "rating": 4.9,
+        "image": "https://randomuser.me/api/portraits/men/55.jpg",
+        "shortDescription": "Empowering neurodiverse students.",
+        "longDescription": "NeuroSpark works with neurodiverse children using tailored educational approaches to improve cognitive skills.",
+        "contactEmail": "support@neurospark.org",
+        "phoneNumber": "9001122334",
+        "availability": [
+            {
+                "day": "Tuesday",
+                "time": "10:00 AM - 12:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:00 PM - 4:00 PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00 AM - 12:00 PM"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Calm Steps",
+        "specialization": "Anxiety Management",
+        "location": "Pune",
+        "rating": 4.6,
+        "image": "https://randomuser.me/api/portraits/men/56.jpg",
+        "shortDescription": "Guiding kids through anxiety relief.",
+        "longDescription": "Calm Steps offers therapeutic programs focusing on emotional regulation and anxiety relief for children.",
+        "contactEmail": "calm@steps.org",
+        "phoneNumber": "8776655443",
+        "availability": [
+            {
+                "day": "Wednesday",
+                "time": "12:00 PM - 3:00 PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:00 PM - 4:00 PM"
+            },
+            {
+                "day": "Sunday",
+                "time": "10:00 AM - 1:00 PM"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "SpeechEase",
+        "specialization": "Speech Therapy",
+        "location": "Chennai",
+        "rating": 4.4,
+        "image": "https://randomuser.me/api/portraits/women/47.jpg",
+        "shortDescription": "Helping children find their voice.",
+        "longDescription": "SpeechEase provides expert-led sessions for speech delays and communication difficulties in early childhood.",
+        "contactEmail": "hello@speechease.com",
+        "phoneNumber": "8665544332",
+        "availability": [
+            {
+                "day": "Monday",
+                "time": "9:00 AM - 11:00 AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "2:00 PM - 5:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "10:00 AM - 1:00 PM"
+            }
+        ]
+    }
+]
