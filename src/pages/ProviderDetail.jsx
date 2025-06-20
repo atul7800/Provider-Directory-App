@@ -36,7 +36,7 @@ function ProviderDetail() {
 
   if (provider === null) {
     return (
-      <FallbackMessage
+      <ProviderDetailsFallback
         icon={<IoClose />}
         variant="error"
         message="Provider not found"
